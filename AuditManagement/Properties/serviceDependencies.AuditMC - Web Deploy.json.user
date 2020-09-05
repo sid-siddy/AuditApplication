@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-08-18T04:43:27.2314709Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "MicroCredentials"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "52527c3a-bd5e-47e7-88ba-9c414b76880e"
+    }
+  }
+}
